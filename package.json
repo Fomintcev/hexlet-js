@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fomintcev/hexlet-js.git"
+  },
+  "author": "Fomintcev R.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fomintcev/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Fomintcev/hexlet-js#readme"
+}
